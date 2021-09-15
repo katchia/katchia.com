@@ -1,0 +1,27 @@
+---
+title: "kat chia"
+image: "katchia2.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/kat__chia"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/katchia"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:chia@psy.fsu.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+
+**Hi, I'm Kat.**
+
+I'm a PhD Candidate in Cognitive Psychology @ [Florida State University](https://psy.fsu.edu/) and I work with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#).
+
+I'm an R enthusiast. Truly. It is embarrassing.
+
+This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
+
+
+Feel free to poke around and reach out at any of the below links.
+
