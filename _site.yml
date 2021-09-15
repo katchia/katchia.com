@@ -11,6 +11,8 @@ navbar:
       href: research.html
     - text: "data science"
       href: data_science.html
+    - text: "CV"
+      href: katcv.pdf
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:chia@psy.fsu.edu
