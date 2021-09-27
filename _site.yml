@@ -13,6 +13,7 @@ navbar:
       href: data_science.html
     - text: "CV"
       href: katcv.pdf
+    search: false
 
   right: 
     - icon: fa-envelope fa-lg
