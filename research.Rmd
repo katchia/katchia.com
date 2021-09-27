@@ -20,7 +20,7 @@ Currently, I am supervising undergraduates in the Language, Learning, and Memory
 
 </center>
 
-## Publications in Peer Reviewed Journals
+## publications in peer reviewed journals
 
 <div class="pub">
 **Chia, K.**, Kaschak, M.P. Structural priming in question-answer dialogues. Psychon Bull Rev (2021). **[DOI](https://doi.org/10.3758/s13423-021-01976-z)**
