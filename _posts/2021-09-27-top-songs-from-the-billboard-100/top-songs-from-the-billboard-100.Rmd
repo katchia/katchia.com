@@ -1,0 +1,29 @@
+---
+title: "top songs from the Billboard 100"
+description: |
+  A short description of the post.
+author:
+  - name: kat
+    url: {}
+date: 09-27-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Tidy Tuesday (Week 38) [Top 1s from the Billboard 100](https://github.com/katchia/side-projects/tree/main/billboard100):
+![top_1s](https://github.com/katchia/side-projects/blob/main/billboard100/top1.jpeg?raw=true)
+
+
+I took a break from hobby data viz for a while, but feel I came back stronger than ever! This project was my first foray back into regular posting. The dataset was from [Tom Mock's](https://twitter.com/thomas_mock) [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) repo. It consisted of songs from the Billboard 100 and metrics from the Spotify API. There were a _lot_ of data to pick from. I decided to look at the top 10 number 1 songs from each decade.
+
+Of note - "older" songs did not hold the number 1 spot as long as more recent songs. I'm guessing the standards for classification changed at some point, thus affecting standing patterns. 
+
+I tried doing something different with the legend this time (i.e., the orientation) and even included some background information on the plot itself. I also employed [Joey Stanley's](https://joeystanley.com/blog/futurevisions-my-first-r-package) `futurevisions` package, using the `atomic_clock` palette.
+
+Thanks for looking!

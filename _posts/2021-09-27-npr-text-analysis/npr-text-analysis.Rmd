@@ -1,0 +1,32 @@
+---
+title: "npr text analysis"
+description: |
+  My first Github contribution!
+author:
+  - name: kat
+    url: {}
+date: 09-27-2021
+preview: nprplot2.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### My first project, [an analysis of npr episode titles](https://github.com/katchia/side-projects/tree/main/npr_text_analysis):
+![npr text analysis](https://github.com/katchia/side-projects/blob/main/npr_text_analysis/nprplot2.png?raw=true)
+
+
+It took me a couple of weeks of attempting Tidy Tuesdays until I felt confident enough to share a post. Unfortunately, my debut into data viz was -not- a Tidy Tuesday dataset, but rather one I found on [Kaggle](https://www.kaggle.com/).
+
+I spent a lot of time reading [Julia Silge](https://twitter.com/juliasilge) and [David Robinson's](https://twitter.com/drob) [Text Mining in R: A Tidy Approach](https://www.tidytextmining.com/index.html) and wanted to apply some basic functions for my first project. 
+
+I remember being really proud of this plot, so thanks for looking!
+
+
+
+

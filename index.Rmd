@@ -16,7 +16,7 @@ site: distill::distill_website
 
 **Hi, I'm Kat.**
 
-I'm a PhD Candidate in Cognitive Psychology @ [Florida State University](https://psy.fsu.edu/) and I work with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#).
+I'm a PhD Candidate in Cognitive Psychology @ [Florida State University](https://psy.fsu.edu/) and I work with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
 I'm an R enthusiast. Truly. It is embarrassing.
 

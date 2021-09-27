@@ -1,0 +1,31 @@
+---
+title: "dogecoin"
+description: |
+  To the (not) moon?
+author:
+  - name: kat
+    url: {}
+date: 09-27-2021
+preview: rise_fall.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### A look at Dogecoin, [the most hilariously volatile stock](https://github.com/katchia/side-projects/tree/main/doge):
+![rise and fall](https://github.com/katchia/side-projects/blob/main/doge/rise_fall.png?raw=true)
+
+Man, oh man. [Dogecoin](https://dogecoin.com/) was quite the whirlwind when I created this. I wanted to make something with a timeseries component, so I decided to try a stock out. Could I have picked a stable one like Apple? Sure, but that plot would have been quite monotonous, and frankly, I had seen some people employ **arrows** in their plots, and was feeling some FOMO. 
+
+I settled on Dogecoin due to its volatile nature and interesting pop-culture time stamps (such as the dip in value when Elon Musk appeared on SNL).
+
+Thanks for looking!
+
+
+
+

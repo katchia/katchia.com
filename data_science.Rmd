@@ -1,6 +1,4 @@
 ---
 title: data science
-description: |
-site: distill::distill_website
+listing: posts
 ---
-fgfdgdfg

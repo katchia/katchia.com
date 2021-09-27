@@ -1,0 +1,29 @@
+---
+title: "mario kart"
+description: |
+  My official debut into the Tidy Tuesday community
+author:
+  - name: kat
+  - url: {}
+date: 09-27-2021
+preview: tt_week_22.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Tidy Tuesday (Week 22), [speed runnin' Mario Kart](https://github.com/katchia/side-projects/tree/main/mario_kart/mario_kart):
+![mario kart](https://github.com/katchia/side-projects/blob/main/mario_kart/mario_kart/tt_week_22.png?raw=true)
+
+My first Tidy Tuesday contribution! An examination of Mario Kart speed runners. I think part of the reason I held off for so long from contributing to [Tidy Tuesday](https://twitter.com/search?q=%23tidytuesday&src=typed_query) was because I wanted to submit something substantial. I used `ggdark`, `patchwork`, and `extrafont` for this project! 
+
+Using `patchwork` for the first time made me feel super powerful, so this project is a milestone for me. Thanks for looking!
+
+
+
+
