@@ -6,6 +6,7 @@ author:
   - name: kat
     url: {}
 date: 09-27-2021
+preview: top1.jpeg
 output:
   distill::distill_article:
     self_contained: false
