@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-09-27-top-songs-from-the-billboard-100/",
+    "title": "top songs from the Billboard 100",
+    "description": "The top ten number one songs from each decade on the Billboard 100.",
+    "author": [
+      {
+        "name": "kat",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-15",
+    "categories": [],
+    "contents": "\r\nTidy Tuesday (Week 38) Top 1s from the Billboard 100:\r\ntop_1sI took a break from hobby data viz for a while, but feel I came back stronger than ever! This project was my first foray back into regular posting. The dataset was from Tom Mock’s Tidy Tuesday repo. It consisted of songs from the Billboard 100 and metrics from the Spotify API. There were a lot of data to pick from. I decided to look at the top 10 number 1 songs from each decade.\r\nOf note - “older” songs did not hold the number 1 spot as long as more recent songs. I’m guessing the standards for classification changed at some point, thus affecting standing patterns.\r\nI tried doing something different with the legend this time (i.e., the orientation) and even included some background information on the plot itself. I also employed Joey Stanley’s futurevisions package, using the atomic_clock palette.\r\nThanks for looking!\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-09-27-top-songs-from-the-billboard-100/top1.jpeg",
+    "last_modified": "2021-09-27T17:02:30-04:00",
+    "input_file": "top-songs-from-the-billboard-100.knit.md"
+  },
+  {
     "path": "posts/2021-09-27-dogecoin/",
     "title": "dogecoin",
     "description": "To the (not) moon?",
@@ -9,12 +26,12 @@
         "url": {}
       }
     ],
-    "date": "2021-09-27",
+    "date": "2021-05-31",
     "categories": [],
     "contents": "\r\nA look at Dogecoin, the most hilariously volatile stock:\r\nrise and fallMan, oh man. Dogecoin was quite the whirlwind when I created this. I wanted to make something with a timeseries component, so I decided to try a stock out. Could I have picked a stable one like Apple? Sure, but that plot would have been quite monotonous, and frankly, I had seen some people employ arrows in their plots, and was feeling some FOMO.\r\nI settled on Dogecoin due to its volatile nature and interesting pop-culture time stamps (such as the dip in value when Elon Musk appeared on SNL).\r\nThanks for looking!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-27-dogecoin/rise_fall.png",
-    "last_modified": "2021-09-27T12:07:26-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-27T17:02:12-04:00",
+    "input_file": "dogecoin.knit.md"
   },
   {
     "path": "posts/2021-09-27-mario-kart/",
@@ -30,11 +47,11 @@
         "url": {}
       }
     ],
-    "date": "2021-09-27",
+    "date": "2021-05-25",
     "categories": [],
     "contents": "\r\nTidy Tuesday (Week 22), speed runnin’ Mario Kart:\r\nmario kartMy first Tidy Tuesday contribution! An examination of Mario Kart speed runners. I think part of the reason I held off for so long from contributing to Tidy Tuesday was because I wanted to submit something substantial. I used ggdark, patchwork, and extrafont for this project!\r\nUsing patchwork for the first time made me feel super powerful, so this project is a milestone for me. Thanks for looking!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-27-mario-kart/tt_week_22.png",
-    "last_modified": "2021-09-27T16:56:18-04:00",
+    "last_modified": "2021-09-27T17:01:40-04:00",
     "input_file": "mario-kart.knit.md"
   },
   {
@@ -47,28 +64,11 @@
         "url": {}
       }
     ],
-    "date": "2021-09-27",
+    "date": "2021-05-21",
     "categories": [],
     "contents": "\r\nMy first project, an analysis of npr episode titles:\r\nnpr text analysisIt took me a couple of weeks of attempting Tidy Tuesdays until I felt confident enough to share a post. Unfortunately, my debut into data viz was -not- a Tidy Tuesday dataset, but rather one I found on Kaggle.\r\nI spent a lot of time reading Julia Silge and David Robinson’s Text Mining in R: A Tidy Approach and wanted to apply some basic functions for my first project.\r\nI remember being really proud of this plot, so thanks for looking!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-27-npr-text-analysis/nprplot2.png",
-    "last_modified": "2021-09-27T12:06:40-04:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-09-27-top-songs-from-the-billboard-100/",
-    "title": "top songs from the Billboard 100",
-    "description": "The top ten number one songs from each decade on the Billboard 100.",
-    "author": [
-      {
-        "name": "kat",
-        "url": {}
-      }
-    ],
-    "date": "2021-09-27",
-    "categories": [],
-    "contents": "\r\nTidy Tuesday (Week 38) Top 1s from the Billboard 100:\r\ntop_1sI took a break from hobby data viz for a while, but feel I came back stronger than ever! This project was my first foray back into regular posting. The dataset was from Tom Mock’s Tidy Tuesday repo. It consisted of songs from the Billboard 100 and metrics from the Spotify API. There were a lot of data to pick from. I decided to look at the top 10 number 1 songs from each decade.\r\nOf note - “older” songs did not hold the number 1 spot as long as more recent songs. I’m guessing the standards for classification changed at some point, thus affecting standing patterns.\r\nI tried doing something different with the legend this time (i.e., the orientation) and even included some background information on the plot itself. I also employed Joey Stanley’s futurevisions package, using the atomic_clock palette.\r\nThanks for looking!\r\n\r\n\r\n\r\n",
-    "preview": "posts/2021-09-27-top-songs-from-the-billboard-100/top1.jpeg",
-    "last_modified": "2021-09-27T16:55:55-04:00",
-    "input_file": "top-songs-from-the-billboard-100.knit.md"
+    "last_modified": "2021-09-27T17:03:02-04:00",
+    "input_file": "npr-text-analysis.knit.md"
   }
 ]
