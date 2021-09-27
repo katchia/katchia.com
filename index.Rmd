@@ -20,6 +20,8 @@ I'm a PhD Candidate in Cognitive Psychology @ [Florida State University](https:/
 
 I'm an R enthusiast. Truly. It is embarrassing.
 
+Currently, I am supervising the Language, Learning, and Memory lab at Florida State University. I am also the instructor for a section of Cognitive Psychology and am leading an "R for Data Science" course for my lab.
+
 This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
 
 
