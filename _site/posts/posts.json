@@ -19,7 +19,7 @@
   {
     "path": "posts/2021-09-27-mario-kart/",
     "title": "mario kart",
-    "description": "My official debut into the Tidy Tuesday community",
+    "description": "My official debut into the Tidy Tuesday community.",
     "author": [
       {
         "name": "kat",
@@ -34,8 +34,8 @@
     "categories": [],
     "contents": "\r\nTidy Tuesday (Week 22), speed runnin’ Mario Kart:\r\nmario kartMy first Tidy Tuesday contribution! An examination of Mario Kart speed runners. I think part of the reason I held off for so long from contributing to Tidy Tuesday was because I wanted to submit something substantial. I used ggdark, patchwork, and extrafont for this project!\r\nUsing patchwork for the first time made me feel super powerful, so this project is a milestone for me. Thanks for looking!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-27-mario-kart/tt_week_22.png",
-    "last_modified": "2021-09-27T12:09:30-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-27T16:56:18-04:00",
+    "input_file": "mario-kart.knit.md"
   },
   {
     "path": "posts/2021-09-27-npr-text-analysis/",
@@ -57,7 +57,7 @@
   {
     "path": "posts/2021-09-27-top-songs-from-the-billboard-100/",
     "title": "top songs from the Billboard 100",
-    "description": "A short description of the post.",
+    "description": "The top ten number one songs from each decade on the Billboard 100.",
     "author": [
       {
         "name": "kat",
@@ -68,7 +68,7 @@
     "categories": [],
     "contents": "\r\nTidy Tuesday (Week 38) Top 1s from the Billboard 100:\r\ntop_1sI took a break from hobby data viz for a while, but feel I came back stronger than ever! This project was my first foray back into regular posting. The dataset was from Tom Mock’s Tidy Tuesday repo. It consisted of songs from the Billboard 100 and metrics from the Spotify API. There were a lot of data to pick from. I decided to look at the top 10 number 1 songs from each decade.\r\nOf note - “older” songs did not hold the number 1 spot as long as more recent songs. I’m guessing the standards for classification changed at some point, thus affecting standing patterns.\r\nI tried doing something different with the legend this time (i.e., the orientation) and even included some background information on the plot itself. I also employed Joey Stanley’s futurevisions package, using the atomic_clock palette.\r\nThanks for looking!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-27-top-songs-from-the-billboard-100/top1.jpeg",
-    "last_modified": "2021-09-27T12:42:46-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-27T16:55:55-04:00",
+    "input_file": "top-songs-from-the-billboard-100.knit.md"
   }
 ]

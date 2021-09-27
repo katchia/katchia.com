@@ -1,7 +1,7 @@
 ---
 title: "mario kart"
 description: |
-  My official debut into the Tidy Tuesday community
+  My official debut into the Tidy Tuesday community.
 author:
   - name: kat
   - url: {}

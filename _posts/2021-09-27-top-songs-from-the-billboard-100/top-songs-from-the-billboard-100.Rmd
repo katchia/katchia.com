@@ -1,7 +1,7 @@
 ---
 title: "top songs from the Billboard 100"
 description: |
-  A short description of the post.
+  The top ten number one songs from each decade on the Billboard 100.
 author:
   - name: kat
     url: {}
