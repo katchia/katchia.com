@@ -9,8 +9,8 @@ navbar:
       href: index.html
     - text: "research"
       href: research.html
-    - text: "data science"
-      href: data_science.html
+    - text: "projects"
+      href: projects.html
     - text: "CV"
       href: katcv.pdf
   right: 
