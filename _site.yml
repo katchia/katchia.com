@@ -4,7 +4,7 @@ theme: theme.css
 description: |
 output_dir: "_site"
 navbar:
-  left:
+  right:
     - text: "about"
       href: index.html
     - text: "research"
@@ -13,7 +13,7 @@ navbar:
       href: projects.html
     - text: "CV"
       href: katcv.pdf
-  right: 
+  left: 
     - icon: fa-envelope fa-lg
       href: mailto:chia@psy.fsu.edu
     - icon: fa-github fa-lg
