@@ -8,7 +8,7 @@ site: distill::distill_website
 
 I began my undergrad program at Florida State University with dreams of grad school. After consulting faculty about PhD programs, I scrambled to join labs and wiggled myself into three. I began my research journey working with [Dr. Walter Boot](https://www.walterboot.net/) on attention and visual search, [Dr. Colleen Kelley](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on retrieval during directed forgetting, and [Dr. Michael Kaschak](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on structural priming in language.
 
-After graduating, I was a lab coordinator for [Dr. Arielle Borovsky's](https://www.purdue.edu/hhs/slhs/directory/faculty/borovsky_arielle.html) lab, where I oversaw a longitudinal study investigating how the lexico-semantic network predicts vocabulary learning and language outcomes in infants (18 months - 2 years). 
+Post graduation, I was a lab coordinator for [Dr. Arielle Borovsky's](https://www.purdue.edu/hhs/slhs/directory/faculty/borovsky_arielle.html) lab, where I oversaw a longitudinal study investigating how the lexico-semantic network predicts vocabulary learning and language outcomes in infants (18 months - 2 years). 
 
 After working with Dr. Borovsky, I began a Cognitive Psychology PhD program at Florida State working with Dr. Michael Kaschak in the Language, Learning, and Memory Lab. I owe all of my academic successes to his mentoring style and always open door. Under him, I've published four articles, three of which are first author papers.
 
