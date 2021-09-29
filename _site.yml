@@ -12,7 +12,7 @@ navbar:
     - text: "projects"
       href: projects.html
     - text: "CV"
-      href: katcv.pdf
+      href: katchiacv.pdf
   left: 
     - icon: fa-envelope fa-lg
       href: mailto:chia@psy.fsu.edu
