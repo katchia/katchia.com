@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nTrying out gt and gtExtras with some soccer data. FIFA World Cup Winners:\r\nWorld CupI grew up playing and watching soccer. My favorite summers were World Cup summers, because it meant I could watch hours on hours of the sport. Subsequently, the FIFA World Cup dataset from Kaggle felt like an appropriate source for testing out this new package by Tom Mock!\r\nNext step: figure out how to embed flags into their own column?\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-10-05-fifa-world-cup-finals/fifa_table.png",
-    "last_modified": "2021-10-05T12:05:23-04:00",
-    "input_file": {}
+    "last_modified": "2021-10-05T13:27:54-04:00",
+    "input_file": "fifa-world-cup-finals.knit.md"
   },
   {
     "path": "posts/2021-09-27-top-songs-from-the-billboard-100/",

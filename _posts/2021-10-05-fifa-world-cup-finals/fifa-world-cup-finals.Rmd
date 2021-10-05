@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Trying out `gt` and `gtExtras` with some soccer data. [FIFA World Cup Winners](https://github.com/katchia/side-projects/tree/main/fifa%20gt%20table): 
-![World Cup](https://github.com/katchia/side-projects/blob/main/fifa%20gt%20table/fifa_table.png?raw=true)
+![World Cup](fifa_table.png)
 
 
 I grew up playing and watching soccer. My favorite summers were World Cup summers, because it meant I could watch hours on hours of the sport. Subsequently, the FIFA World Cup dataset from Kaggle felt like an appropriate source for testing out this new package by [Tom Mock](https://twitter.com/thomas_mock)!
