@@ -8,15 +8,6 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# {.tabset}
-
-## tab1
-
-gfdgdfg
-
-## tab2
-
-sdfgfdg
 
 I began my undergrad program at Florida State University with dreams of grad school. After consulting faculty about PhD programs, I scrambled to join labs and wiggled myself into three. I began my research journey working with [Dr. Walter Boot](https://www.walterboot.net/) on attention and visual search, [Dr. Colleen Kelley](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on retrieval during directed forgetting, and [Dr. Michael Kaschak](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on structural priming in language.
 
