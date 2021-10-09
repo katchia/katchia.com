@@ -22,5 +22,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 I grew up playing and watching soccer. My favorite summers were World Cup summers, because it meant I could watch hours on hours of the sport. Subsequently, the FIFA World Cup dataset from Kaggle felt like an appropriate source for testing out this new package by [Tom Mock](https://twitter.com/thomas_mock)!
-
-Next step: figure out how to embed flags into their own column?
