@@ -1,0 +1,21 @@
+---
+title: "Tidy Tuesday, Week 24"
+description: |
+  A timed Tidy Tuesday.
+author:
+  - name: kat
+    url: {}
+date: 06-13-2021
+preview: fishies.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## My first timed Tidy Tuesday - An analysis of the commercial fish production in the Great Lakes 1867 - 2015. [Great Lakes Fish](https://github.com/katchia/side-projects/tree/main/fish): 
+![Great Lakes Fish](fishplot.jpeg)

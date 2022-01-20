@@ -34,6 +34,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/2022-01-20-fishies/",
+    "title": "Tidy Tuesday, Week 24",
+    "description": "A timed Tidy Tuesday.",
+    "author": [
+      {
+        "name": "kat",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-13",
+    "categories": [],
+    "contents": "\r\nMy first timed Tidy Tuesday - An analysis of the commercial fish production in the Great Lakes 1867 - 2015. Great Lakes Fish:\r\nGreat Lakes Fish\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-20T18:05:49-05:00",
+    "input_file": "fishies.knit.md"
+  },
+  {
     "path": "posts/2021-09-27-dogecoin/",
     "title": "dogecoin",
     "description": "To the (not) moon?",
