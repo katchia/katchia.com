@@ -14,7 +14,7 @@
     "contents": "\r\nTrying out gt and gtExtras with some soccer data. FIFA World Cup Winners:\r\nWorld CupI grew up playing and watching soccer. My favorite summers were World Cup summers, because it meant I could watch hours on hours of the sport. Subsequently, the FIFA World Cup dataset from Kaggle felt like an appropriate source for testing out this new package by Tom Mock!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-10-05-fifa-world-cup-finals/fifa_table.png",
     "last_modified": "2021-10-09T10:38:20-04:00",
-    "input_file": "fifa-world-cup-finals.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2021-09-27-top-songs-from-the-billboard-100/",
@@ -47,8 +47,8 @@
     "categories": [],
     "contents": "\r\nMy first timed Tidy Tuesday - An analysis of the commercial fish production in the Great Lakes 1867 - 2015. Great Lakes Fish:\r\nGreat Lakes Fish\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-01-20T18:08:49-05:00",
-    "input_file": "fishies.knit.md"
+    "last_modified": "2022-01-20T18:21:46-05:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-09-27-dogecoin/",
