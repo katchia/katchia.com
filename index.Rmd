@@ -18,9 +18,9 @@ site: distill::distill_website
 
 I'm a PhD Candidate in Cognitive Psychology @ [Florida State University](https://psy.fsu.edu/) and I work with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
-I'm an R enthusiast. Truly. It is embarrassing.
+Currently, I am a Research Lead and Data Scientist at the Language, Learning, and Memory lab at Florida State University. I am also leading an "R for Data Science" course for my lab.
 
-Currently, I am a Research Lead and Data Scientist at the Language, Learning, and Memory lab at Florida State University. I am also the instructor for a section of Cognitive Psychology and am leading an "R for Data Science" course for my lab.
+I will be starting a new role as a Research Scientist at [Cangrade](https://www.cangrade.com/), AI start-up, this summer.
 
 This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
 
