@@ -26,7 +26,7 @@ Currently, I am supervising undergraduates in the Language, Learning, and Memory
 ## publications in peer reviewed journals
 
 <div class="pub">
-**Chia, K.**, Kaschak, M.P. Structural priming in question-answer dialogues. Psychon Bull Rev (2021). **[DOI](https://doi.org/10.3758/s13423-021-01976-z)**
+**Chia, K.** and Kaschak, M.P. Structural priming in question-answer dialogues. Psychon Bull Rev (2021). **[DOI](https://doi.org/10.3758/s13423-021-01976-z)**
 </div>
 
 <div class="pub">
@@ -41,4 +41,13 @@ Long, M., **Chia, K.**, & Kaschak, M. P. Pointing to the Future of Language Rese
 <div class="pub">
 **Chia, K.**, Axelrod, C., Johnson, C. et al. Structural Repetition in Question Answering: A Replication and Extension of Levelt and Kelter (1982), Discourse Processes, 56:1, 2-23 (2019).
 **[DOI](https://www.tandfonline.com/doi/full/10.1080/0163853X.2018.1515556)**
+</div>
+
+## publications under review
+<div class="pub">
+**Chia, K.** and Kaschak, M.P. It’s Not You, It’s Me: Some Speakers Elicit Structural Priming More Reliably than Others.
+</div>
+
+<div class="pub">
+**Chia, K.,** Edwards, A.A., Schatschneider, C., and Kaschak, M.P. Structural Repetition in Responses to Indirect Requests.
 </div>
