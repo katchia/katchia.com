@@ -1,6 +1,6 @@
 ---
 title: "kat chia"
-image: "katchia2.jpg"
+image: "katchia2.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/kat__chia"
