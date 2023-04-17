@@ -9,8 +9,6 @@ navbar:
       href: index.html
     - text: "research"
       href: research.html
-    - text: "projects"
-      href: projects.html
     - text: "press"
       href: press.html
     - text: "cv"
