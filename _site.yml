@@ -4,7 +4,7 @@ theme: theme.css
 description: |
 output_dir: "_site"
 navbar:
-  search: false
+    search: false
   right:
     - text: "about"
       href: index.html
