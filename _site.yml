@@ -4,10 +4,8 @@ theme: theme.css
 description: |
 output_dir: "_site"
 navbar:
-    search: false
+  search: false
   right:
-    - text: "about"
-      href: index.html
     - text: "research"
       href: research.html
     - text: "press"
@@ -24,5 +22,6 @@ navbar:
     - icon: fa-twitter fa-lg
       href: http://twitter.com/kat__chia/
 output: distill::distill_article
+
 
 
