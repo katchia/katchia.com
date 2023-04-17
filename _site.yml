@@ -11,6 +11,8 @@ navbar:
       href: research.html
     - text: "projects"
       href: projects.html
+    - text: "press"
+      href: press.html
     - text: "cv"
       href: katchia_cv.pdf
     - text: "resume"

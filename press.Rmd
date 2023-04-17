@@ -1,0 +1,19 @@
+---
+title: press
+description: |
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+April 14, 2023. Featured in (Rush Hour Times)[https://rushhourtimes.com/1-in-4-gen-z-employees-are-unhappy-at-work-and-20-are-considering-quitting-their-job-study-finds/]
+
+April 14, 2023. Featured in [EuroNews](https://www.euronews.com/next/2023/04/14/1-in-4-gen-z-employees-are-unhappy-at-work-and-20-are-considering-quitting-their-jobs-stud)
+
+April 4, 2023. Featured in [Yahoo! Finance](https://finance.yahoo.com/news/study-cangrade-uncovers-drives-generational-143000158.html)
+
+April 4, 2023. Featured in [NewsWire](https://www.newswire.com/news/new-study-from-cangrade-uncovers-what-drives-generational-happiness-at-22001056)
+
+November 29, 2022. Featured in [Yahoo! News](https://www.yahoo.com/now/research-cangrade-reveals-5-personality-190000612.html)
