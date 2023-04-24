@@ -8,6 +8,8 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+April 21, 2023. Featured in [Business Now](https://businessnow.mt/gen-z-workers-motivated-by-work-life-balance-and-personal-development-study/)
+
 April 18, 2023. Featured in [The Staffing Stream](https://www.thestaffingstream.com/2023/04/18/understand-and-drive-generational-happiness-at-work-with-this-new-research/)
 
 April 14, 2023. Featured in [Rush Hour Times](https://rushhourtimes.com/1-in-4-gen-z-employees-are-unhappy-at-work-and-20-are-considering-quitting-their-job-study-finds/)
