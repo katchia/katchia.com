@@ -4,10 +4,8 @@ image: "katchia2.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/kat__chia"
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/katchia"
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:chia@psy.fsu.edu"
+    url: "mailto:katherineschia@gmail.com"
 output:
   postcards::jolla
 site: distill::distill_website
@@ -16,11 +14,21 @@ site: distill::distill_website
 
 **Hi, I'm Kat.**
 
+I'm a Cognitive Science Ph.D. turned product-minded reseach scientist with a passion for building responsible, AI-powered software.
+
+At [Cangrade](https://www.cangrade.com/), I led the development of multiple products that combine machine learning, large language models (LLMs), and user-centered design to streamline hiring for enterprise clients:
+
+- **AI Copilot**: A generative AI assistant that automates hiring workflows. I spearheaded its development and launch, translating research advances into a seamless product experience.
+
+- **Resume Ranker**: A patented scoring tool (U.S. Patent No. 12,287,833) that evaluates resumes using LLMs. I owned this product from concept through prototyping, engineering handoff, and go-to-market execution.
+
+- **Position-Specific Assessments**: A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent (No. 63/816,227) for the underlying method.
+
+My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, designers, and PMs to define requirements, shape roadmaps, and bring AI products to market — always grounded in Responsible AI principles.
+
 I have my PhD in Cognitive Psychology from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
-During my Ph.D. program, I was a Research Lead and Data Scientist at the Language, Learning, and Memory lab at Florida State University. I also led an "R for Data Science" course for my lab.
-
-I'm currently a Research Scientist at the AI start-up, [Cangrade](https://www.cangrade.com/). My role here is dynamic, as I build predictive models using machine learning to estimate candidate success in roles, refine organization-wide psychometric and analytical approaches, design and execute internal and external research projects, and advocate for Responsible AI.
+I also spent some time at IBM, applying linguistic data to healthcare use cases.
 
 This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
 
