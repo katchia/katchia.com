@@ -1,11 +1,6 @@
 ---
 title: "kat chia"
 image: "katchia2.png"
-links:
-  - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: "https://twitter.com/kat__chia"
-  - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:katherineschia@gmail.com"
 output:
   postcards::jolla
 site: distill::distill_website
@@ -18,11 +13,11 @@ I'm a Cognitive Science Ph.D. turned product-minded reseach scientist with a pas
 
 At [Cangrade](https://www.cangrade.com/), I led the development of multiple products that combine machine learning, large language models (LLMs), and user-centered design to streamline hiring for enterprise clients:
 
-- **AI Copilot**: A generative AI assistant that automates hiring workflows. I spearheaded its development and launch, translating research advances into a seamless product experience.
+- [AI Copilot](https://www.myjules.ai/): A generative AI assistant that automates hiring workflows. I spearheaded its development and launch, translating research advances into a seamless product experience.
 
-- **Resume Ranker**: A patented scoring tool (U.S. Patent No. 12,287,833) that evaluates resumes using LLMs. I owned this product from concept through prototyping, engineering handoff, and go-to-market execution.
+- [Resume Ranker](https://www.cangrade.com/press/cangrade-launches-newly-patented-resume-ranker-enabling-recruiters-to-uncover-high-fit-candidates-quickly-and-accurately/?_gl=1*tz8qv8*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzMzAxOTUkbzEkZzEkdDE3NTEzMzAyMDgkajQ3JGwwJGgw): A patented scoring tool (U.S. Patent No. 12,287,833) that evaluates resumes using LLMs. I owned this product from concept through prototyping, engineering handoff, and go-to-market execution.
 
-- **Position-Specific Assessments**: A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent (No. 63/816,227) for the underlying method.
+- [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent (No. 63/816,227) for the underlying method.
 
 My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, designers, and PMs to define requirements, shape roadmaps, and bring AI products to market — always grounded in Responsible AI principles.
 
@@ -32,6 +27,4 @@ I also spent some time at IBM, applying linguistic data to healthcare use cases.
 
 This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
 
-
-Feel free to poke around and reach out at any of the below links.
 
