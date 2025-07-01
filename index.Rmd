@@ -19,7 +19,7 @@ At [Cangrade](https://www.cangrade.com/), I led the development of multiple prod
 
 - [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent (No. 63/816,227) for the underlying method.
 
-My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, designers, and PMs to define requirements, shape roadmaps, and bring AI products to market — always grounded in Responsible AI principles.
+My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, designers, and PMs to define requirements, shape roadmaps, and bring AI products to market.
 
 I have my PhD in Cognitive Psychology from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
