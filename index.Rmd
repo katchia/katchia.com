@@ -23,7 +23,7 @@ My work bridges research and product, combining rigorous experimentation with st
 
 I have my PhD in Cognitive Psychology from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
-I also spent some time at **IBM**, applying linguistic data to healthcare use cases.
+I also spent time at **IBM Research**, applying linguistic data to healthcare use cases.
 
 This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
 

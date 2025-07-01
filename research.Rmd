@@ -8,22 +8,22 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Applied Research and Product
+## applied research and product
 I’ve applied my background in cognitive science and machine learning to build AI-powered products that are grounded in research, scalable in production, and human-centered by design.
 
 At Cangrade, a B2B SaaS company delivering predictive hiring solutions, I’ve led product-focused research efforts and brought multiple tools to market:
 
-- AI Copilot: A generative AI assistant that automates hiring workflows. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
+- **AI Copilot**: A generative AI assistant that automates hiring workflows. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
 
-- Resume Ranker (U.S. Patent No. 12,287,833): An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
+- **[Resume Ranker](https://ppubs.uspto.gov/api/patents/html/12287833?source=USPAT&requestToken=eyJzdWIiOiIzZGMxZGIxNS1hOTc4LTRmYWItYTJiZS1hNDhiMWE4NDY0ZjMiLCJ2ZXIiOiJmMWE5ZTI0My01MjA3LTQ0YWItYWEwNi03N2Y0YzY4MjgyOTkiLCJleHAiOjB9)**: An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
 
-- Position-Specific Assessments (Patent Pending): A tool that uses LLMs to generate custom skill assessments directly from job descriptions. I led product strategy and development, and filed the corresponding patent.
+- **Position-Specific Assessments** (Patent Pending): A tool that uses LLMs to generate custom skill assessments directly from job descriptions. I led product strategy and development, and filed the corresponding patent.
 
 Beyond product development, I’ve conducted user and market research, competitive analyses, and authored industry-facing white papers that were featured in Fast Company, HR.com, Yahoo!, and others. These efforts not only guided product direction but also helped position the company as a leader in Responsible AI.
 
 At **IBM Research**, I worked with [Dr. Rachel Ostrand](https://t.co/9UGZ2yoDIn?amp=1) to investigate how spontaneous speech could serve as a biomarker of cognitive decline. I analyzed linguistic data from older adults, built part-of-speech tagging tools in Python, and supported early ideation for a clinician-facing product for dementia screening.
 
-## Academic Research 
+## academic research 
 
 I began my research journey as an undergraduate at Florida State University, where I joined three labs to explore diverse areas of cognitive science:
 
@@ -42,6 +42,17 @@ These academic experiences gave me a strong foundation in empirical thinking, st
 </center>
 
 ## publications in peer reviewed journals
+<div class="pub">
+Brousse, C., **Chia, K.**, Kaschak, M.P. Non-sentential responses to requests for information, 53, 1207-1225 (2025). **[DOI](https://doi.org/10.3758/s13421-024-01645-1)**
+</div>
+
+<div class="pub">
+**Chia, K.** and Kaschak, M.P. Elliptical responses to direct and indirect requests for information, Language and Speech, 67(1), 228-254 (2023) **[DOI](https://doi.org/10.1177/00238309231176526)**
+</div>
+
+<div class="pub">
+**Chia, K.,** Edwards, A.A., Schatschneider, C., and Kaschak, M.P. Structural Repetition in Responses to Indirect Requests, Discourse Processes, 60(9), 634-654 (2023). **[DOI](https://doi.org/10.1080/0163853X.2023.2255508)**
+</div>
 
 <div class="pub">
 **Chia, K.** and Kaschak, M.P. It's not you, it's me: Some Speakers Elicit Structural Priming More Reliably Than Others. Collabra (2022). **[DOI](https://doi.org/10.1525/collabra.36312)**
@@ -65,8 +76,5 @@ Long, M., **Chia, K.**, & Kaschak, M. P. Pointing to the Future of Language Rese
 **[DOI](https://www.tandfonline.com/doi/full/10.1080/0163853X.2018.1515556)**
 </div>
 
-## publications under review
-
 <div class="pub">
-**Chia, K.,** Edwards, A.A., Schatschneider, C., and Kaschak, M.P. Structural Repetition in Responses to Indirect Requests.
-</div>
+
