@@ -8,17 +8,36 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Applied Research and Product
+I’ve applied my background in cognitive science and machine learning to build AI-powered products that are grounded in research, scalable in production, and human-centered by design.
 
-I began my undergrad program at Florida State University with dreams of grad school. After consulting faculty about PhD programs, I scrambled to join labs and wiggled myself into three. I began my research journey working with [Dr. Walter Boot](https://www.walterboot.net/) on attention and visual search, [Dr. Colleen Kelley](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on retrieval during directed forgetting, and [Dr. Michael Kaschak](https://psy.fsu.edu/php/research/research.php?_tr=1_3#) on structural priming in language.
+At Cangrade, a B2B SaaS company delivering predictive hiring solutions, I’ve led product-focused research efforts and brought multiple tools to market:
 
-Post graduation, I was a lab coordinator for [Dr. Arielle Borovsky's](https://www.purdue.edu/hhs/slhs/directory/faculty/borovsky_arielle.html) lab, where I oversaw a longitudinal study investigating how the lexico-semantic network predicts vocabulary learning and language outcomes in infants (18 months - 2 years). 
+- AI Copilot: A generative AI assistant that automates hiring workflows. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
 
-After working with Dr. Borovsky, I began a Cognitive Psychology PhD program at Florida State working with Dr. Michael Kaschak in the Language, Learning, and Memory Lab. My work in this lab examines language production and linguistic alignment. Under his mentoring, I've published four articles, three of which are first author papers.
+- Resume Ranker (U.S. Patent No. 12,287,833): An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
 
-I have also worked with the wonderful [Dr. Rachel Ostrand](https://t.co/9UGZ2yoDIn?amp=1) over at IBM, investigating how spontaneous speech production may predict current and future dementia status in older adults. 
+- Position-Specific Assessments (Patent Pending): A tool that uses LLMs to generate custom skill assessments directly from job descriptions. I led product strategy and development, and filed the corresponding patent.
 
-I worked with undergraduates in the Language, Learning, and Memory lab during my Ph.D. program. I was responsible for the conceptualization of research projects, data analysis, research design, and general mentorship.
+Beyond product development, I’ve conducted user and market research, competitive analyses, and authored industry-facing white papers that were featured in Fast Company, HR.com, Yahoo!, and others. These efforts not only guided product direction but also helped position the company as a leader in Responsible AI.
 
+At **IBM Research**, I worked with [Dr. Rachel Ostrand](https://t.co/9UGZ2yoDIn?amp=1) to investigate how spontaneous speech could serve as a biomarker of cognitive decline. I analyzed linguistic data from older adults, built part-of-speech tagging tools in Python, and supported early ideation for a clinician-facing product for dementia screening.
+
+## Academic Research 
+
+I began my research journey as an undergraduate at Florida State University, where I joined three labs to explore diverse areas of cognitive science:
+
+- [Dr. Walter Boot](https://www.walterboot.net/) – attention and visual search
+
+- Dr. Colleen Kelley – memory and directed forgetting
+
+- [Dr. Michael Kaschak](https://psychology.fsu.edu/person/michael-kaschak) – language processing and structural priming
+
+After graduating, I worked as a lab coordinator for [Dr. Arielle Borovsky](https://sites.google.com/site/arielleborovsky?_ga=2.86706778.316547478.1751411826-1891238087.1751411826), where I led day-to-day operations for a longitudinal study on language development in infants. This role strengthened my skills in participant management, experimental design, and team mentorship.
+
+I went on to earn my Ph.D. in Cognitive Science at Florida State under the mentorship of [Dr. Michael Kaschak](https://psychology.fsu.edu/person/michael-kaschak). My research focused on linguistic alignment and language production, resulting in four peer-reviewed publications (three as first author). I led experimental design, analysis, and manuscript development, while mentoring undergraduates and teaching data science with R.
+
+These academic experiences gave me a strong foundation in empirical thinking, structured experimentation, and clear communication — all of which inform my work as a product-minded research scientist today.
 
 </center>
 
