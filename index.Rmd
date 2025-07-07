@@ -9,7 +9,7 @@ site: distill::distill_website
 
 **Hi, I'm Kat.**
 
-I'm a Cognitive Science Ph.D. turned product-minded reseach scientist with a passion for building responsible, AI-powered software.
+I'm a Cognitive Science Ph.D. turned product-minded research scientist with a passion for building responsible, AI-powered software.
 
 At [Cangrade](https://www.cangrade.com/), I led the development of multiple products that combine machine learning, large language models (LLMs), and user-centered design to streamline hiring for enterprise clients:
 
@@ -17,14 +17,14 @@ At [Cangrade](https://www.cangrade.com/), I led the development of multiple prod
 
 - [Resume Ranker](https://www.cangrade.com/press/cangrade-launches-newly-patented-resume-ranker-enabling-recruiters-to-uncover-high-fit-candidates-quickly-and-accurately/?_gl=1*tz8qv8*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzMzAxOTUkbzEkZzEkdDE3NTEzMzAyMDgkajQ3JGwwJGgw): A patented scoring tool (U.S. Patent No. 12,287,833) that evaluates resumes using LLMs. I owned this product from concept through prototyping, engineering handoff, and go-to-market execution.
 
-- [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent (No. 63/816,227) for the underlying method.
+- [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A tool powered by LLMs that generates tailored skill assessments directly from job descriptions. I led the design and development, and filed a patent for the underlying method.
 
-My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, designers, and PMs to define requirements, shape roadmaps, and bring AI products to market.
+My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, customer success, and designers to define requirements, shape roadmaps, and bring AI products to market.
 
 I have my PhD in Cognitive Science from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
 I also spent time at **IBM Research**, applying linguistic data to healthcare use cases.
 
-This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on **Github** and **Netlify**.
+This website was made using the `distill` and `postcards` packages in R. It is currently being hosted on [**Github**](https://github.com/katchia/katchia.com) and **Netlify**.
 
 
