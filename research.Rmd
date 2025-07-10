@@ -15,7 +15,7 @@ At Cangrade, a B2B SaaS company delivering predictive hiring solutions, I’ve l
 
 - **AI Copilot**: A generative AI assistant that automates hiring workflows. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
 
-- **[Resume Ranker](https://ppubs.uspto.gov/api/patents/html/12287833?source=USPAT&requestToken=eyJzdWIiOiIzZGMxZGIxNS1hOTc4LTRmYWItYTJiZS1hNDhiMWE4NDY0ZjMiLCJ2ZXIiOiJmMWE5ZTI0My01MjA3LTQ0YWItYWEwNi03N2Y0YzY4MjgyOTkiLCJleHAiOjB9)**: An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
+- **Resume Ranker**: An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
 
 - **Position-Specific Assessments** (Patent Pending): A tool that uses LLMs to generate custom skill assessments directly from job descriptions. I led product strategy and development, and filed the corresponding patent.
 
