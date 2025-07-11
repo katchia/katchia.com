@@ -25,7 +25,7 @@ My work bridges research and product, combining rigorous experimentation with st
 
 I have my PhD in Cognitive Science from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
 
-I taught quite a bit at Florida State as well! I was the instructor for 5 different courses ranging from 25-250 students a class.
+I taught quite a bit at Florida State University as well! I was the instructor for 5 different courses ranging from 25-250 students a class.
 
 I also spent time at **IBM Research**, applying linguistic data to healthcare use cases.
 
