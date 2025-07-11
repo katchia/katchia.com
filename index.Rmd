@@ -7,13 +7,11 @@ site: distill::distill_website
 ---
 
 
-**Hi, I'm Kat.**
+**Hi, I'm Kat and I'm on the job market!**
 
 I'm a Cognitive Science Ph.D. turned product-minded research scientist, passionate about building AI-powered tools that are intuitive, impactful, and responsible.
 
 Most recently at Cangrade, I led the development of several ML and LLM-driven products where user experience quality and product intuition were my goal. I specialize in identifying friction points in complex systems, testing and iterating on flows, and collaborating across teams.
-
-**I'm currently on the job market!**
 
 At [Cangrade](https://www.cangrade.com/), I led the development of multiple products that combine machine learning, large language models (LLMs), and user-centered design to streamline hiring for enterprise clients:
 
