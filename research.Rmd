@@ -13,7 +13,7 @@ I’ve applied my background in cognitive science and machine learning to build 
 
 At Cangrade, a B2B SaaS company delivering predictive hiring solutions, I’ve led product-focused research efforts and brought [multiple tools](https://www.cangrade.com/press/cangrade-launches-ai-powered-interview-guide-bringing-automated-behavioral-science-backed-first-round-interview-tools-to-hiring-teams/?_gl=1*hm3ouj*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNjkkajIkbDAkaDA.) to market:
 
-- **AI Copilot**: A generative AI assistant that automates hiring workflows. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
+- **AI Copilot**: A generative AI assistant for personal use. I led the product development and launch, translating NLP and LLM advances into a seamless user experience.
 
 - **Resume Ranker**: An AI-based scoring tool that evaluates resumes against hiring criteria. I owned this product from concept through prototyping, engineering handoff, and go-to-market planning.
 
