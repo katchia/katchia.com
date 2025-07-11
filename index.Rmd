@@ -11,20 +11,21 @@ site: distill::distill_website
 
 I'm a Cognitive Science Ph.D. turned product-minded research scientist, passionate about building AI-powered tools that are intuitive, impactful, and responsible.
 
-Most recently at Cangrade, I led the development of several ML and LLM-driven products where user experience quality and product intuition were my goal. I specialize in identifying friction points in complex systems, testing and iterating on flows, and collaborating across teams.
+Most recently at Cangrade, I led the development of several ML and LLM-driven products where user experience quality and product intuition were my goal. I specialize in identifying friction points in complex systems, testing and iterating on flows, and collaborating across teams. I also bring a Responsible AI lens to every stage of my projects.
 
 At [Cangrade](https://www.cangrade.com/), I led the development of multiple products that combine machine learning, large language models (LLMs), and user-centered design to streamline hiring for enterprise clients:
 
-- [AI Copilot](https://www.myjules.ai/): A generative AI assistant for workflows. I oversat the product from concept to launch, ensuring the UX felt natural and non-intrusive while automating complex tasks.
+- [Jules AI Copilot](https://www.myjules.ai/): A generative AI chatbot for enterprise hiring workflows and personal use with safety guardrails built in.
 
+- [Resume Ranker](https://www.cangrade.com/press/cangrade-launches-newly-patented-resume-ranker-enabling-recruiters-to-uncover-high-fit-candidates-quickly-and-accurately/?_gl=1*tz8qv8*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzMzAxOTUkbzEkZzEkdDE3NTEzMzAyMDgkajQ3JGwwJGgw): A generative AI tools for evaluating resumes without introducing bias. I led every stage from prototyping, cross-functional testing, and assessing product-market fit. 
 
-- [Resume Ranker](https://www.cangrade.com/press/cangrade-launches-newly-patented-resume-ranker-enabling-recruiters-to-uncover-high-fit-candidates-quickly-and-accurately/?_gl=1*tz8qv8*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzMzAxOTUkbzEkZzEkdDE3NTEzMzAyMDgkajQ3JGwwJGgw): A generative AI tools for evaluating resumes. I led every stage from prototyping, cross-functional testing, and assessing product-market fit.
-
-- [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A patent-pending tool that sues LLMs to auto-generate custom skills assessments from job descriptions. I designed it to reduce recruiter effort.
+- [Position-Specific Assessments](https://www.cangrade.com/press/cangrade-launches-generative-ai-powered-soft-and-hard-skills-assessments-expanding-accessibility-to-hr-teams/?_gl=1*1rs7zfc*_up*MQ..*_ga*NTAwMjg3MzAzLjE3NTEzMzAxOTY.*_ga_D7FMCW0VFG*czE3NTEzOTQxMTEkbzIkZzEkdDE3NTEzOTQxNDkkajIyJGwwJGgw): A patent-pending tool that sues LLMs to auto-generate custom skills assessments from job descriptions. I designed it to reduce recruiter effort while adding standards for transparency and the ability to audit.
 
 My work bridges research and product, combining rigorous experimentation with strategic product thinking. I collaborate closely with engineers, customer success, and designers to define requirements, shape roadmaps, and bring AI products to market.
 
 I have my PhD in Cognitive Science from [Florida State University](https://psy.fsu.edu/), where I worked with the unparalleled [Dr. Michael Kaschak](https://psy.fsu.edu/php/people/people.php?_tr=1_5#), investigating linguistic alignment and language production.
+
+I taught quite a bit at Florida State as well! I was the instructor for 5 different courses ranging from 25-250 students a class.
 
 I also spent time at **IBM Research**, applying linguistic data to healthcare use cases.
 
