@@ -8,6 +8,8 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+April 2, 2024. Featured in [Newswire](https://www.newswire.com/news/new-study-exposes-hidden-gender-bias-in-tech-job-descriptions-22270492)
+
 April 21, 2023. Featured in [Business Now](https://businessnow.mt/gen-z-workers-motivated-by-work-life-balance-and-personal-development-study/)
 
 April 18, 2023. Featured in [The Staffing Stream](https://www.thestaffingstream.com/2023/04/18/understand-and-drive-generational-happiness-at-work-with-this-new-research/)
@@ -20,6 +22,6 @@ April 11, 2023. Article written on research in [Fast Company](https://www.fastco
 
 April 4, 2023. Featured in [Yahoo! Finance](https://finance.yahoo.com/news/study-cangrade-uncovers-drives-generational-143000158.html)
 
-April 4, 2023. Featured in [NewsWire](https://www.newswire.com/news/new-study-from-cangrade-uncovers-what-drives-generational-happiness-at-22001056)
+April 4, 2023. Featured in [Newswire](https://www.newswire.com/news/new-study-from-cangrade-uncovers-what-drives-generational-happiness-at-22001056)
 
 November 29, 2022. Featured in [Yahoo! News](https://www.yahoo.com/now/research-cangrade-reveals-5-personality-190000612.html)
